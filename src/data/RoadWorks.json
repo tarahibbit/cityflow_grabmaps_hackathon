@@ -1,0 +1,45 @@
+{
+    "odata.metadata": "http://datamall2.mytransport.sg/ltaodataservice/$metadata#RoadWorks",
+    "value": [
+        {
+            "EventID": "RMINRM-202002-0176",
+            "StartDate": "2020-02-04",
+            "EndDate": "2020-02-28",
+            "SvcDept": "LAND TRANSPORT AUTHORITY",
+            "RoadName": "ADAM ROAD",
+            "Other": "For details"
+        },
+        {
+            "EventID": "RMINRM-202001-1672",
+            "StartDate": "2020-01-23",
+            "EndDate": "2020-02-21",
+            "SvcDept": "PUB - WATER RECLAMATION (NETWORK) DEPT",
+            "RoadName": "ADAM ROAD",
+            "Other": "For details"
+        },
+        {
+            "EventID": "RMINRM-202001-1229",
+            "StartDate": "2020-01-16",
+            "EndDate": "2020-03-31",
+            "SvcDept": "LAND TRANSPORT AUTHORITY",
+            "RoadName": "ADAM ROAD",
+            "Other": "For details"
+        },
+        {
+            "EventID": "RMINRM-201907-0234",
+            "StartDate": "2019-07-04",
+            "EndDate": "2020-07-03",
+            "SvcDept": "SINGTEL - MANAGED SERVICES MGT  and  CABLE OPERATIONS",
+            "RoadName": "ADAM ROAD",
+            "Other": "For details"
+        },
+        {
+            "EventID": "RMAPP-201804-0418",
+            "StartDate": "2018-04-16",
+            "EndDate": "2020-09-30",
+            "SvcDept": "PRIVATE",
+            "RoadName": "ADAM ROAD",
+            "Other": "For details"
+        }
+    ]
+}
