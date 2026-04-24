@@ -1,0 +1,29 @@
+# CityFlow – Decision-Aware Routing on GrabMaps
+
+CityFlow adds a decision layer on top of GrabMaps routing.
+
+Instead of only showing the fastest route, it helps users choose routes based on:
+- Speed (Fastest)
+- Safety at Night (lighting + incident proximity)
+- System Impact (traffic distribution)
+
+## What it uses
+- GrabMaps Routing API (ETA + geometry)
+- Street lighting dataset (visibility proxy)
+- Traffic incident data (disruption proxy)
+- Flood alerts (global risk signal)
+
+## Key idea
+Routing engines optimise silently.
+
+CityFlow makes trade-offs visible and helps users choose better decisions.
+
+## Demo Notes
+- Fastest: Live GrabMaps route
+- Safer at Night: prioritises lighting and fewer disruptions
+- Distribute Traffic: shows how demand can be spread across the network
+
+## Repository
+This repository contains the working prototype built for the GrabMaps hackathon.
+
+Here is the link to the demo: https://extraordinary-valkyrie-767bf7.netlify.app/ - Use password: My-Drop-Site
